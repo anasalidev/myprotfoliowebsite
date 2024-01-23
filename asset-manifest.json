@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myprotfoliowebsite/static/css/main.8ff3eca5.css",
+    "main.js": "/myprotfoliowebsite/static/js/main.69454301.js",
+    "static/media/five.png": "/myprotfoliowebsite/static/media/five.30b319052da7ade5ea3c.png",
+    "static/media/six.png": "/myprotfoliowebsite/static/media/six.5fdf51e3ca90c623e8f4.png",
+    "static/media/four.png": "/myprotfoliowebsite/static/media/four.66f8970687be48ce27db.png",
+    "static/media/onee.png": "/myprotfoliowebsite/static/media/onee.fc8b02947e9fda44c0e5.png",
+    "static/media/three.png": "/myprotfoliowebsite/static/media/three.4df283b87342096e5913.png",
+    "static/media/two.png": "/myprotfoliowebsite/static/media/two.7bc8da3ec22a297fcbca.png",
+    "static/media/mee.png": "/myprotfoliowebsite/static/media/mee.59ab2cb31283a74ac99a.png",
+    "static/media/new cv.pdf": "/myprotfoliowebsite/static/media/new cv.c361e6fa60035f969f52.pdf",
+    "static/media/me.png": "/myprotfoliowebsite/static/media/me.3065d950325d12e07e13.png",
+    "index.html": "/myprotfoliowebsite/index.html",
+    "main.8ff3eca5.css.map": "/myprotfoliowebsite/static/css/main.8ff3eca5.css.map",
+    "main.69454301.js.map": "/myprotfoliowebsite/static/js/main.69454301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ff3eca5.css",
+    "static/js/main.69454301.js"
+  ]
+}
