@@ -1,0 +1,243 @@
+.profile-contanier {
+    width: 100%;
+    height: auto;
+    padding: 2% 0px;
+}
+
+
+
+.profile-head .head {
+    font-size: var(--big-font-size);
+    color: white;
+    margin-bottom: 10px;
+}
+
+.second-profile-head {
+    position: relative;
+    padding: 30px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    align-items: center;
+    justify-content: center;
+
+    gap: 35px;
+
+}
+
+.second-profile-head .profBox {
+    position: relative;
+    width: 340px;
+    height: 260px;
+    background-color: rgb(146, 155, 152);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 22s;
+    border-radius: 20px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.second-profile-head .profBox a {
+    color: var(--first-color);
+    position: relative;
+    z-index: -1;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.second-profile-head .profBox img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.second-profile-head .profBox::before {
+    background-color: rgb(255, 255, 255, 0.7);
+    width: 0%;
+    height: 0%;
+    position: absolute;
+    content: "";
+    transition: 1s;
+    z-index: 1000;
+    border-radius: 20px;
+}
+
+.second-profile-head .profBox:hover a {
+    z-index: 1111;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.second-profile-head .profBox:hover::before {
+    width: 100%;
+    height: 100%;
+
+}
+
+
+
+
+
+
+
+@media (max-width:1200px) {
+    .second-profile-head .profBox {
+        width: 300px;
+        height: 260px;
+
+    }
+
+}
+
+@media (max-width:1030px) {
+    .second-profile-head .profBox {
+        width: 280px;
+        height: 240px;
+
+    }
+
+    .second-profile-head {
+
+        gap: 25px;
+
+    }
+
+}
+
+@media (max-width:950px) {
+    .second-profile-head .profBox {
+        width: 260px;
+        height: 220px;
+
+    }
+
+    .second-profile-head {
+        gap: 15px;
+
+    }
+
+}
+
+@media (max-width:900px) {
+    .second-profile-head .profBox {
+        position: relative;
+        width: 360px;
+        height: 220px;
+        background-color: rgb(52, 127, 192);
+
+    }
+
+    .second-profile-head {
+        position: relative;
+        padding: 30px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        align-items: center;
+        justify-content: center;
+        gap: 35px;
+
+    }
+
+    
+
+}
+@media (max-width:800px) {
+    .second-profile-head .profBox {
+        position: relative;
+        width: 320px;
+        height: 220px;
+
+    }
+
+    .second-profile-head {
+        padding:20px;
+        width: 100%;
+        gap: 25px;
+
+    }
+
+    
+
+}
+@media (max-width:700px) {
+    .second-profile-head .profBox {
+        position: relative;
+        width: 280px;
+        height: 200px;
+
+    }
+
+    .second-profile-head {
+        padding:10px;
+        width: 100%;
+        gap: 25px;
+
+    }
+
+    
+
+}
+@media (max-width:630px) {
+    .second-profile-head .profBox {
+        position: relative;
+        width: 240px;
+        height: 200px;
+
+    }
+
+    .second-profile-head {
+        padding:10px;
+        width: 100%;
+        gap: 15px;
+
+    }
+
+    
+
+}
+@media (max-width:530px) {
+    .second-profile-head .profBox {
+        position: relative;
+        width: 200px;
+        height: 180px;
+
+    }
+
+    .second-profile-head {
+        padding:10px;
+        width: 100%;
+        gap: 20px;
+
+    }
+}
+@media (max-width:480px) {
+    .second-profile-head {
+        padding: 10px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+
+    }
+    .second-profile-head .profBox {
+        width: 85%;
+        height: 220px;
+
+    }
+
+    .second-profile-head {
+        padding:10px;
+        width: 100%;
+        gap: 20px;
+
+    }
+}
