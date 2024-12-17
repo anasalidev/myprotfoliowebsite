@@ -2,8 +2,8 @@ import React, { useEffect } from 'react'
 import "./Contact.css"
 import Aos from 'aos'
 import "aos/dist/aos.css"
-import me from "../../assets/mee1.png"
-import cv from "./A Resume.pdf"
+import me from "../../assets/anas1.png"
+import cv from "./Anas Resume.pdf"
 import { FaGithubSquare, FaLinkedin } from "react-icons/fa";
 import { MdInsertDriveFile } from "react-icons/md";
 
