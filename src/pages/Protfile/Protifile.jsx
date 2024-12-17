@@ -26,30 +26,30 @@ const Protifile = () => {
                     <div className="second-profile-head">
                         <div className="profBox" data-aos="fade-up" data-aos-delay="700">
                             <img src={onee} alt="" />
-                            <a href="https://anasalidev.github.io/MaestroPizzini/" >
+                            <a href="https://anasalidev.github.io/MaestroPizzini/" target="_blank" rel="noopener noreferrer">
                             See More</a>
                         </div>
                         <div className="profBox" data-aos="fade-up" data-aos-delay="700">
                             <img src={two} alt="" />
-                            <a href="https://anasalidev.github.io/checkweather/" >See More</a>
+                            <a href="https://anasalidev.github.io/checkweather/" target="_blank" rel="noopener noreferrer" >See More</a>
                         </div>
                         <div className="profBox" data-aos="fade-up" data-aos-delay="700">
                             <img src={four} alt="" />
-                            <a href="https://anasalidev.github.io/foodwebsite/" >See More</a>
+                            <a href="https://anasalidev.github.io/foodwebsite/" target="_blank" rel="noopener noreferrer">See More</a>
                         </div>
                         <div className="profBox" data-aos="fade-up" data-aos-delay="900">
                             <img src={three} alt="" />
-                            <a href="https://anasalidev.github.io/reactwebsite/"  >See More</a>
+                            <a href="https://anasalidev.github.io/reactwebsite/" target="_blank" rel="noopener noreferrer" >See More</a>
                         </div>
                         
                    
                         <div className="profBox" data-aos="fade-up" data-aos-delay="900">
                             <img src={six} alt="" />
-                            <a href="https://github.com/anasalidev">See More</a>
+                            <a href="https://github.com/anasalidev" target="_blank" rel="noopener noreferrer">See More</a>
                         </div>
                         <div className="profBox" data-aos="fade-up" data-aos-delay="900">
                             <img src={five} alt="" />
-                            <a href=" https://anasalidev.github.io/FitnessClub/" >See More</a>
+                            <a href=" https://anasalidev.github.io/FitnessClub/" target="_blank" rel="noopener noreferrer" >See More</a>
                         </div>
                        
                     </div>

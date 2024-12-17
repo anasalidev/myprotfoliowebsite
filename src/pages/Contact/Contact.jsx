@@ -38,8 +38,8 @@ const Contact = () => {
                             <h1 className='samll-head'>Get In<span className='dif-color'> Touch </span> </h1>
                             <p>Thank you for exploring my portfolio! I'm excited to connect with you. Whether you have a potential project, collaboration idea, or just want to chat, feel free to reach out.</p>
                             <div className="icons">
-                                <a href="https://www.linkedin.com/in/anasalibinanwar/"><FaLinkedin /></a>
-                                <a href="https://github.com/anasalidev"><FaGithubSquare /></a>
+                                <a href="https://www.linkedin.com/in/anasalibinanwar/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+                                <a href="https://github.com/anasalidev" target="_blank" rel="noopener noreferrer"><FaGithubSquare /></a>
                                 <a href={cv} download><MdInsertDriveFile /></a>
                             </div>
                         </div>
