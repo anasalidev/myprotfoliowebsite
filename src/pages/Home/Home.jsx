@@ -5,10 +5,10 @@ import Service from '../Service/Service';
 import Protifile from '../Protfile/Protifile';
 import Contact from '../Contact/Contact';
 import { FaArrowRight } from "react-icons/fa";
-import mypic from "../../assets/mee.png"
+import mypic from "../../assets/mee2.png"
 import Aos from 'aos'
 import "aos/dist/aos.css"
-import cv from "./new cv.pdf"
+import cv from "./A Resume.pdf"
 
 const Home = () => {
   useEffect(() => {

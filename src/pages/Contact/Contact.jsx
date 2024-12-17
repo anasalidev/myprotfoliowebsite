@@ -2,8 +2,8 @@ import React, { useEffect } from 'react'
 import "./Contact.css"
 import Aos from 'aos'
 import "aos/dist/aos.css"
-import me from "../../assets/me.png"
-import cv from "./new cv.pdf"
+import me from "../../assets/mee1.png"
+import cv from "./A Resume.pdf"
 import { FaGithubSquare, FaLinkedin } from "react-icons/fa";
 import { MdInsertDriveFile } from "react-icons/md";
 
@@ -39,7 +39,7 @@ const Contact = () => {
                             <p>Thank you for exploring my portfolio! I'm excited to connect with you. Whether you have a potential project, collaboration idea, or just want to chat, feel free to reach out.</p>
                             <div className="icons">
                                 <a href="https://www.linkedin.com/in/anasalibinanwar/"><FaLinkedin /></a>
-                                <a href="https://www.linkedin.com/in/anasalibinanwar/"><FaGithubSquare /></a>
+                                <a href="https://github.com/anasalidev"><FaGithubSquare /></a>
                                 <a href={cv} download><MdInsertDriveFile /></a>
                             </div>
                         </div>

@@ -131,7 +131,7 @@
     .contanier {
         width: 100%;
         height: auto;
-        min-height: 130vh;
+        /* min-height: 130vh; */
         align-items: end;
         margin-bottom: 30px;
     }
