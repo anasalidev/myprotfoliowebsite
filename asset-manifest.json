@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/myprotfoliowebsite/static/css/main.3243a929.css",
-    "main.js": "/myprotfoliowebsite/static/js/main.49721329.js",
+    "main.css": "/myprotfoliowebsite/static/css/main.583528ab.css",
+    "main.js": "/myprotfoliowebsite/static/js/main.b96a3d2e.js",
     "static/media/five.png": "/myprotfoliowebsite/static/media/five.30b319052da7ade5ea3c.png",
     "static/media/six.png": "/myprotfoliowebsite/static/media/six.5fdf51e3ca90c623e8f4.png",
     "static/media/four.png": "/myprotfoliowebsite/static/media/four.66f8970687be48ce27db.png",
     "static/media/onee.png": "/myprotfoliowebsite/static/media/onee.fc8b02947e9fda44c0e5.png",
     "static/media/three.png": "/myprotfoliowebsite/static/media/three.4df283b87342096e5913.png",
     "static/media/two.png": "/myprotfoliowebsite/static/media/two.7bc8da3ec22a297fcbca.png",
-    "static/media/mee2.png": "/myprotfoliowebsite/static/media/mee2.3c32e70275a435be541a.png",
-    "static/media/mee1.png": "/myprotfoliowebsite/static/media/mee1.af5f4f26ee11841bafc3.png",
-    "static/media/A Resume.pdf": "/myprotfoliowebsite/static/media/A Resume.adf706244db9c2a95939.pdf",
+    "static/media/anas1.png": "/myprotfoliowebsite/static/media/anas1.ecac079423a6499e569c.png",
+    "static/media/Anas Resume.pdf": "/myprotfoliowebsite/static/media/Anas Resume.645314717cb3ac3f08e4.pdf",
+    "static/media/anas.jpg": "/myprotfoliowebsite/static/media/anas.1fff39cacf0d08a8fdd1.jpg",
     "index.html": "/myprotfoliowebsite/index.html",
-    "main.3243a929.css.map": "/myprotfoliowebsite/static/css/main.3243a929.css.map",
-    "main.49721329.js.map": "/myprotfoliowebsite/static/js/main.49721329.js.map"
+    "main.583528ab.css.map": "/myprotfoliowebsite/static/css/main.583528ab.css.map",
+    "main.b96a3d2e.js.map": "/myprotfoliowebsite/static/js/main.b96a3d2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3243a929.css",
-    "static/js/main.49721329.js"
+    "static/css/main.583528ab.css",
+    "static/js/main.b96a3d2e.js"
   ]
 }
